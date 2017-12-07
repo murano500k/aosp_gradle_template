@@ -34,7 +34,7 @@ android {
             java.srcDirs = ['src']
         }
         main {
-            java.srcDirs = ['src/android/mediastress/renesas/MainActivity.java']
+            java.srcDirs = ['src']
             manifest.srcFile 'AndroidManifest.xml'
             res.srcDirs = ['res']
         }
